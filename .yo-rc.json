@@ -42,7 +42,22 @@
     "jwtSecretKey": "NGU5MmZjMmIyMGYzNmFiMDg1YjNlMTg2MjcyNzQ2YmExNGFlNmU4NjFkNmNjZTA0MjA4NmEyZmI2MTllZTQ3YWM1MTI4ZGYzM2MyZjNiNzc1OTJhYzgyNzRkZTFkNjMzODVhOTM3OTU2YmNlMjNkMzJiMzkzOGQ4NTFhYTM0MGM=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": [
+      "Sach",
+      "Cuonsach",
+      "Giasach",
+      "Nhaxuatban",
+      "Theloai",
+      "Phongdungsach",
+      "Nhapsach",
+      "Phongdocsach",
+      "Muonsach",
+      "Thuephong",
+      "Thuthu",
+      "Docgia"
+    ],
+    "lastLiquibaseTimestamp": 1618043976000
   },
   "git-provider": "GitHub",
   "git-company": "kakahaha6193",
